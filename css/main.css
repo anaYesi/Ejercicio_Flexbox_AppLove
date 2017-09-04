@@ -11,9 +11,12 @@ body {
 .link{
 	text-decoration: none;
 	padding: 21px;/*poner las letras al centro*/
+	margin: 10px;
 }
 .flex-container{
 	display: flex;
+	padding: 15px;
+
 }
 /*Menu*/
 .menu{
